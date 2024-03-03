@@ -1,0 +1,42 @@
+html {
+	font-family: "Consolas", "Andalé Mono", "Andale Mono", "Lucida Sans Typewriter", monospace;
+}
+
+body {
+	margin: 0px;
+	background-color: #51CCA7;
+}
+
+h1 {
+	padding-top: 32px;
+	padding-right: 32px;
+	margin: 0px;
+}
+h2 {
+	padding-top: 32px;
+}
+
+a, u {
+	color: #E12CC2;
+}
+
+.container {
+	max-width: 100%;
+	width: auto;
+	background-color: #ffffff33;
+	padding: 32px 5%;
+	padding-bottom: 64px;
+	border-radius: 50px;
+	margin: auto;
+	margin-top: 64px;
+	margin-bottom: 64px;
+	overflow: auto;
+}
+
+@media (min-width: 600px) {
+
+.container {
+	max-width: 50%;
+	min-width: 555px;
+	padding: 32px 64px;
+}
