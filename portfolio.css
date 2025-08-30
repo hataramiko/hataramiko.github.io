@@ -1,5 +1,5 @@
 html {
-	font-family: "Consolas", "Andalé Mono", "Andale Mono", "Lucida Sans Typewriter", monospace;
+	font-family: "Consolas", "Andalï¿½ Mono", "Andale Mono", "Lucida Sans Typewriter", monospace;
 }
 
 body {
@@ -173,4 +173,6 @@ ul {
 
 #tc23-img {
 	max-width: 40%;
+}
+
 }

@@ -4,7 +4,7 @@ html {
 
 body {
 	margin: 0px;
-	background-color: #51CCA7;
+	background-color: #00B3B3;
 }
 
 h1 {
@@ -33,10 +33,12 @@ a, u {
 	overflow: auto;
 }
 
-@media (min-width: 600px) {}
+@media (min-width: 600px) {
 
 .container {
 	max-width: 50%;
 	min-width: 555px;
 	padding: 32px 64px;
+}
+
 }
